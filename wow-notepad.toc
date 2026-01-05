@@ -1,0 +1,9 @@
+## Interface: 110005
+## Title: WoW Notepad
+## Notes: A simple notepad addon with local storage
+## Author: Conor Timmis
+## Version: 1.0.0
+## SavedVariables: NotepadDB
+
+Notepad.lua
+
