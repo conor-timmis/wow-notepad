@@ -681,7 +681,6 @@ end
 function Notepad.Initialize()
     Database.Initialize()
     InitializeDialogs()
-    print("|cff00ff00WoW Notepad loaded!|r Type |cffFFFF00/notepad|r or |cffFFFF00/np|r to open.")
 end
 
 function Notepad.OnLogout()
